@@ -1,0 +1,17 @@
+E:\现代程序设计\homework-06\share_to_students\buaa_GO\bin\Debug\go1.exe
+E:\现代程序设计\homework-06\share_to_students\buaa_GO\bin\Debug\go1.pdb
+E:\现代程序设计\homework-06\share_to_students\buaa_GO\obj\Debug\go1.csprojResolveAssemblyReference.cache
+E:\现代程序设计\homework-06\share_to_students\buaa_GO\obj\Debug\Go_WinApp.GoBoard.resources
+E:\现代程序设计\homework-06\share_to_students\buaa_GO\obj\Debug\go1.Properties.Resources.resources
+E:\现代程序设计\homework-06\share_to_students\buaa_GO\obj\Debug\go1.csproj.GenerateResource.Cache
+E:\现代程序设计\homework-06\share_to_students\buaa_GO\obj\Debug\go1.exe
+E:\现代程序设计\homework-06\share_to_students\buaa_GO\obj\Debug\go1.pdb
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\bin\Debug\go1.exe.config
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\obj\Debug\go1.exe
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\obj\Debug\go1.pdb
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\bin\Debug\go1.exe
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\bin\Debug\go1.pdb
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\obj\Debug\go1.csprojResolveAssemblyReference.cache
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\obj\Debug\Go_WinApp.GoBoard.resources
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\obj\Debug\go1.Properties.Resources.resources
+E:\大三上作业\现代程序设计\homework-06\buaa_GO\obj\Debug\go1.csproj.GenerateResource.Cache
